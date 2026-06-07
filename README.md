@@ -28,17 +28,14 @@ I don’t just build web applications; I design intelligent, end-to-end data pip
 | **IoT & Hardware** | `Raspberry Pi Pico`, `Arduino`, `Sensor Fusion (MPU-9250, AD8232)` |
 
 ---
-
 ### 📈 GitHub Stats & Dynamics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=somoshree04&show_icons=true&theme=tokyonight&bg_color=1a1b26&title_color=e0af68&text_color=a9b1d6&icon_color=7aa2f7&count_private=true" height="175px" alt="Somoshree's GitHub Stats" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somoshree04&theme=tokyonight&bg_color=1a1b26&title_color=e0af68&text_color=a9b1d6&langs_count=5&card_width=380" height="175px" alt="Top Languages" />
-</p>
+| | |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=somoshree04&show_icons=true&theme=tokyonight&bg_color=1a1b26&title_color=e0af68&text_color=a9b1d6&icon_color=7aa2f7&count_private=true" height="200px" alt="Somoshree's GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somoshree04&theme=tokyonight&bg_color=1a1b26&title_color=e0af68&text_color=a9b1d6&langs_count=8" height="200px" alt="Top Languages" /> |
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=somoshree04&theme=tokyonight&background=1a1b26&ring=e0af68&fire=e0af68&currStreakNum=a9b1d6&sideLabels=a9b1d6&dates=7aa2f7" width="620px" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=somoshree04&theme=tokyonight&background=1a1b26&ring=e0af68&fire=e0af68&currStreakNum=a9b1d6&sideLabels=a9b1d6&dates=7aa2f7" width="790px" alt="GitHub Streak" />
 </p>
 ---
 
