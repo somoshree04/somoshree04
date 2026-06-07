@@ -31,15 +31,11 @@ I don’t just build web applications; I design intelligent, end-to-end data pip
 ### 📈 GitHub Stats & Dynamics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somoshree04&theme=tokyonight&bg_color=1a1b26&title_color=38bdf8&text_color=a9b1d6&langs_count=6" height="200" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=somoshree04&theme=tokyonight&background=1a1b26&ring=e0af68&fire=e0af68&currStreakNum=a9b1d6&sideLabels=a9b1d6&dates=7aa2f7" width="550" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=somoshree04&theme=tokyonight&background=1a1b26&ring=e0af68&fire=e0af68&currStreakNum=a9b1d6&sideLabels=a9b1d6&dates=7aa2f7" width="515" alt="GitHub Streak" />
 </p>
 ---
 
