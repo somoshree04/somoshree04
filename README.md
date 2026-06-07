@@ -10,8 +10,8 @@
 
 I don’t just build web applications; I design intelligent, end-to-end data pipelines. My engineering journey thrives at the crossroads of **Embedded Hardware (IoT)**, **Deep Learning Frameworks**, and **Modern Full-Stack Interfaces**. 
 
-* 🔬 **What I'm Driving Forward:** I focus on transforming raw biomedical and sensor data into actionable digital insights. I love making AI deeply practical.
-* 🚀 **Full-Stack Execution:** To make AI useful, it needs a pristine interface. I build clean, high-performance dashboards to monitor complex live data in real-time.
+* 🔬 **What I'm Driving Forward:** I focus on transforming raw biomedical and sensor data into actionable digital insights. 
+* 🚀 **Full-Stack Execution:** Looking to make AI deeply practical,for that it needs a pristine interface. I build clean, high-performance dashboards to monitor complex live data in real-time.
 * 🏆 **Recent Milestone:** Honored with the **Best Paper Award** at the *7th International Conference on Green Computing (UEMGREEN 2026)* for my research on Wireless Body Area Sensor Networks (WBASN). 
 * 📚 **Extended Research:** Based on technical merit, my work has been selected for extended publication as a book chapter in the upcoming volume: **"Emotionally Intelligent Wearables: AI-Driven Adaptive Interfaces for Personalized Healthcare"** by *Bentham Science*.
 * ⚡ **Core Philosophy:** Break the boundary between hardware and software. Optimize logical paths in C++, craft responsive frontends, and let deep learning models handle the complex heavy lifting.
@@ -31,17 +31,19 @@ I don’t just build web applications; I design intelligent, end-to-end data pip
 
 ### 📈 GitHub Stats & Dynamics
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/somoshree04">
-    <img src="https://github-readme-stats.vercel.app/api?username=somoshree04&show_icons=true&theme=glassmorphism&count_private=true" alt="Somoshree's GitHub Stats" height="180px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=somoshree04&show_icons=true&theme=tokyonight&bg_color=1a1b26&title_color=e0af68&text_color=a9b1d6&icon_color=7aa2f7&count_private=true" alt="Somoshree's GitHub Stats" height="195px" />
   </a>
   <a href="https://github.com/somoshree04">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somoshree04&layout=compact&theme=glassmorphism&langs_count=6" alt="Top Languages" height="180px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somoshree04&theme=tokyonight&bg_color=1a1b26&title_color=e0af68&text_color=a9b1d6&langs_count=6" alt="Top Languages" height="195px" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=somoshree04&theme=glassmorphism" alt="GitHub Streak" width="100%" />
+  <a href="https://github.com/somoshree04">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=somoshree04&theme=tokyonight&background=1a1b26&ring=e0af68&fire=e0af68&currStreakNum=a9b1d6" alt="GitHub Streak" width="815px" />
+  </a>
 </p>
 
 ---
