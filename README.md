@@ -31,7 +31,7 @@ I don’t just build web applications; I design intelligent, end-to-end data pip
 ### 📈 GitHub Stats & Dynamics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=somoshree04&theme=tokyonight" height="200" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=somoshree04&theme=tokyonight" width="515" alt="Most Used Languages" />
 </p>
 
 <p align="center">
