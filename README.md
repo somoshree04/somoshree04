@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="banner.jpg" alt="Building Intelligent Wearables" width="100%" />
+  <img src="banner.png" alt="Building Intelligent Wearables" width="100%" />
 </p>
 
 
