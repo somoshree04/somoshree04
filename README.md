@@ -2,17 +2,19 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=1E40AF&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer......;Building+Intelligent+Wearables...;+in+C%2B%2B" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=1E40AF&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer...;Building+Intelligent+Wearables...;Advancing+AI+/+ML+Models..." alt="Typing SVG" />
   </a>
 </p>
 
-### 💫 About Me
-I am an **Electronics & Communication Engineering** undergraduate and a passionate researcher deeply invested in bridging the gap between hardware intelligent systems and modern full-stack web applications. 
+### 🧠 About Me: The Intersection of Hardware, AI, & Web
 
-* 🏆 **Best Paper Award Winner** @ UEMGREEN 2026 International Conference.
-* 🔬 **Lead Researcher** specializing in Wireless Body Area Sensor Networks (WBASN) and wearable health tech.
-* 🧠 Currently extending my research into an AI-driven healthcare book chapter for Bentham Science.
-* 💻 Developing full-stack web architectures with sleek, glassmorphism-inspired UIs.
+I don’t just build web applications; I design intelligent, end-to-end data pipelines. My engineering journey thrives at the crossroads of **Embedded Hardware (IoT)**, **Deep Learning Frameworks**, and **Modern Full-Stack Interfaces**. 
+
+* 🔬 **What I'm Driving Forward:** I focus on transforming raw biomedical and sensor data into actionable digital insights. I love making AI deeply practical.
+* 🚀 **Full-Stack Execution:** To make AI useful, it needs a pristine interface. I build clean, high-performance dashboards to monitor complex live data in real-time.
+* 🏆 **Recent Milestone:** Honored with the **Best Paper Award** at the *7th International Conference on Green Computing (UEMGREEN 2026)* for my research on Wireless Body Area Sensor Networks (WBASN). 
+* 📚 **Extended Research:** Based on technical merit, my work has been selected for extended publication as a book chapter in the upcoming volume: **"Emotionally Intelligent Wearables: AI-Driven Adaptive Interfaces for Personalized Healthcare"** by *Bentham Science*.
+* ⚡ **Core Philosophy:** Break the boundary between hardware and software. Optimize logical paths in C++, craft responsive frontends, and let deep learning models handle the complex heavy lifting.
 
 ---
 
