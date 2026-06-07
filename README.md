@@ -6,6 +6,11 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="banner.jpg" alt="Building Intelligent Wearables" width="100%" />
+</p>
+
+
 ### 🧠 About Me: The Intersection of Hardware, AI, & Web
 
 I don’t just build web applications; I design intelligent, end-to-end data pipelines. My engineering journey thrives at the crossroads of **Embedded Hardware (IoT)**, **Deep Learning Frameworks**, and **Modern Full-Stack Interfaces**. 
