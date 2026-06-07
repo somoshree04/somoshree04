@@ -31,12 +31,12 @@ I don’t just build web applications; I design intelligent, end-to-end data pip
 ### 📈 GitHub Stats & Dynamics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=somoshree04&show_icons=true&theme=tokyonight&bg_color=1a1b26&title_color=e0af68&text_color=a9b1d6&icon_color=7aa2f7&count_private=true" width="395px" alt="Somoshree's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somoshree04&theme=tokyonight&bg_color=1a1b26&title_color=e0af68&text_color=a9b1d6&langs_count=5&card_width=395" width="395px" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=somoshree04&show_icons=true&theme=tokyonight&bg_color=1a1b26&title_color=e0af68&text_color=a9b1d6&icon_color=7aa2f7&count_private=true&v=1" width="395" alt="Somoshree's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somoshree04&theme=tokyonight&bg_color=1a1b26&title_color=e0af68&text_color=a9b1d6&langs_count=5&v=1" width="395" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=somoshree04&theme=tokyonight&background=1a1b26&ring=e0af68&fire=e0af68&currStreakNum=a9b1d6&sideLabels=a9b1d6&dates=7aa2f7" width="795px" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=somoshree04&theme=tokyonight&background=1a1b26&ring=e0af68&fire=e0af68&currStreakNum=a9b1d6&sideLabels=a9b1d6&dates=7aa2f7&v=1" width="795" alt="GitHub Streak" />
 </p>
 ---
 
