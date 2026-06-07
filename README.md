@@ -32,20 +32,14 @@ I don’t just build web applications; I design intelligent, end-to-end data pip
 ### 📈 GitHub Stats & Dynamics
 
 <p align="center">
-  <a href="https://github.com/somoshree04">
-    <img src="https://github-readme-stats.vercel.app/api?username=somoshree04&show_icons=true&theme=tokyonight&bg_color=1a1b26&title_color=e0af68&text_color=a9b1d6&icon_color=7aa2f7&count_private=true" alt="Somoshree's GitHub Stats" height="195px" />
-  </a>
-  <a href="https://github.com/somoshree04">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somoshree04&theme=tokyonight&bg_color=1a1b26&title_color=e0af68&text_color=a9b1d6&langs_count=6" alt="Top Languages" height="195px" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=somoshree04&show_icons=true&theme=tokyonight&bg_color=1a1b26&title_color=e0af68&text_color=a9b1d6&icon_color=7aa2f7&count_private=true" height="175px" alt="Somoshree's GitHub Stats" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somoshree04&theme=tokyonight&bg_color=1a1b26&title_color=e0af68&text_color=a9b1d6&langs_count=5&card_width=380" height="175px" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/somoshree04">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=somoshree04&theme=tokyonight&background=1a1b26&ring=e0af68&fire=e0af68&currStreakNum=a9b1d6" alt="GitHub Streak" width="815px" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=somoshree04&theme=tokyonight&background=1a1b26&ring=e0af68&fire=e0af68&currStreakNum=a9b1d6&sideLabels=a9b1d6&dates=7aa2f7" width="620px" alt="GitHub Streak" />
 </p>
-
 ---
 
 ### 🤝 Connect with Me
