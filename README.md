@@ -1,7 +1,9 @@
 # Hi there, I'm Somoshree! 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N5YmN0Z3A1M2V4Z3A3b3N0Z3A1M2V4Z3A3b3N0Z3A1M2V4Z3A3&ep=v1_gifs_search&ct=g/ulob8wXWbmW52/giphy.gif" width="100%" alt="Cozy Lofi Dev Aesthetic" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+Intelligent+Wearables...;Full-Stack+Web+Developer;Solving+DSA+in+C%2B%2B" alt="Typing SVG" />
+  </a>
 </p>
 
 ### 💫 About Me
