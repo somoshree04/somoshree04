@@ -33,6 +33,43 @@ I don’t just build web applications; I design intelligent, end-to-end data pip
 | **IoT & Hardware** | `Raspberry Pi Pico`, `Arduino`, `Sensor Fusion (MPU-9250, AD8232)` |
 
 ---
+
+### 🛠 Languages and Tools
+
+<p align="left">
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/fastapi/fastapi-icon.svg" alt="FastAPI" width="40" height="40" />
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40" />
+  </a>
+  <a href="https://vite.dev/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/vitejs/vitejs-icon.svg" alt="Vite" width="40" height="40" />
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" />
+  </a>
+  <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" height="40" />
+  </a>
+</p>
+
+
 ### 📈 GitHub Stats & Dynamics
 
 <p align="center">
