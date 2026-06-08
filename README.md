@@ -100,12 +100,18 @@ I don’t just build web applications; I design intelligent, end-to-end data pip
 ### 📈 GitHub Stats & Dynamics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=somoshree04&theme=tokyonight" width="515" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=somoshree04&theme=tokyonight" width="515" alt="Somoshree's GitHub Contribution Dynamics" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=somoshree04&theme=tokyonight" width="515" alt="Most Used Languages by Commit" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=somoshree04&theme=tokyonight&background=1a1b26&ring=e0af68&fire=e0af68&currStreakNum=a9b1d6&sideLabels=a9b1d6&dates=7aa2f7" width="515" alt="GitHub Streak" />
 </p>
+
+
 ---
 
 ### 🤝 Connect with Me
