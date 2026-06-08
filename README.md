@@ -104,13 +104,12 @@ I don’t just build web applications; I design intelligent, end-to-end data pip
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/languages?username=somoshree04&theme=tokyonight" width="515" alt="Most Used Languages with Percentages" />
+  <img src="https://github-readme-stats-git.vercel.app/api/top-langs/?username=somoshree04&theme=tokyonight&bg_color=1a1b26&title_color=38bdf8&text_color=a9b1d6&langs_count=6" height="205" alt="Most Used Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=somoshree04&theme=tokyonight&background=1a1b26&ring=e0af68&fire=e0af68&currStreakNum=a9b1d6&sideLabels=a9b1d6&dates=7aa2f7" width="515" alt="GitHub Streak" />
 </p>
-
 
 ---
 
