@@ -23,6 +23,15 @@ I don’t just build web applications; I design intelligent, end-to-end data pip
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/somoshree04/somoshree04/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/somoshree04/somoshree04/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/somoshree04/somoshree04/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+
 ### 🛠 Languages and Tools
 
 <p align="left">
