@@ -10,16 +10,13 @@
   <img src="banner.png" alt="Building Intelligent Wearables" width="100%" />
 </p>
 
+## 👩‍🔬 About Me
 
-### 🧠 About Me: The Intersection of Hardware, AI, & Web
+I bridge the gap between physical hardware and intelligent systems. My engineering focuses on the intersection of **IoT Sensor Architectures**, **Deep Learning**, and **Modern Full-Stack Dashboards** to turn live data into actionable medical insights.
 
-I don’t just build web applications; I design intelligent, end-to-end data pipelines. My engineering journey thrives at the crossroads of **Embedded Hardware (IoT)**, **Deep Learning Frameworks**, and **Modern Full-Stack Interfaces**. 
-
-* 🔬 **What I'm Driving Forward:** I focus on transforming raw biomedical and sensor data into actionable digital insights. 
-* 🚀 **Full-Stack Execution:** Looking to make AI deeply practical,for that it needs a pristine interface. I build clean, high-performance dashboards to monitor complex live data in real-time.
-* 🏆 **Recent Milestone:** Honored with the **Best Paper Award** at the *7th International Conference on Green Computing (UEMGREEN 2026)* for my research on Wireless Body Area Sensor Networks (WBASN). 
-* 📚 **Extended Research:** Based on technical merit, my work has been selected for extended publication as a book chapter in the upcoming volume: **"Emotionally Intelligent Wearables: AI-Driven Adaptive Interfaces for Personalized Healthcare"** by *Bentham Science*.
-* ⚡ **Core Philosophy:** Break the boundary between hardware and software. Optimize logical paths in C++, craft responsive frontends, and let deep learning models handle the complex heavy lifting.
+* **🏆 Recent Milestone:** Awarded **Best Paper** at UEMGREEN 2026 for my research on Wireless Body Area Sensor Networks (WBASN).
+* **📚 Extended Research:** Invited author for an upcoming Bentham Science book chapter on *Emotionally Intelligent Wearables*.
+* **⚡ Logic & Execution:** Sharpening systemic execution through C++ optimization while crafting high-performance full-stack architectures.
 
 ---
 
