@@ -1,4 +1,4 @@
-# Hi there, I'm Somoshree! 👋
+# Hi, I'm Somoshree 👋
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -6,19 +6,66 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="banner.png" alt="Building Intelligent Wearables" width="100%" />
-</p>
+A **Full-Stack Developer** who builds intelligent wearables and the web dashboards that turn live sensor data into actionable medical insights.
 
-## 👩‍🔬 About Me
-
-I bridge the gap between physical hardware and intelligent systems. My engineering focuses on the intersection of **IoT Sensor Architectures**, **Deep Learning**, and **Modern Full-Stack Dashboards** to turn live data into actionable medical insights.
-
-* **🏆 Recent Milestone:** Awarded **Best Paper** at UEMGREEN 2026 for my research on Wireless Body Area Sensor Networks (WBASN).
-* **📚 Extended Research:** Invited author for an upcoming Bentham Science book chapter on *Emotionally Intelligent Wearables*.
-* **⚡ Logic & Execution:** Sharpening systemic execution through C++ optimization while crafting high-performance full-stack architectures.
+- 💻 Currently working on: **<!-- EDIT: your current project, e.g. emotion-aware wearable + dashboard -->**
+- 📚 Learning: **<!-- EDIT: e.g. system design, cloud deployment, C++ optimization -->**
+- 🚀 Building: **IoT sensor architectures, deep learning models and full-stack health dashboards**
+- 🏆 Best Paper at **UEMGREEN 2026** (Wireless Body Area Sensor Networks)
+- ✍️ Invited author, Bentham Science book chapter on *Emotionally Intelligent Wearables*
+- 🎯 Open to **Software Engineering / AI-ML Engineering** opportunities
 
 ---
+
+## 🛠 Tech Stack
+
+**Languages:** C++ · Python · JavaScript · TypeScript · HTML · CSS
+**Frontend:** React · Tailwind CSS · Streamlit
+**Backend & Data:** FastAPI · Django · SQLAlchemy · PostgreSQL
+**AI / ML:** PyTorch · TensorFlow · Scikit-Learn · Jupyter · Google Colab
+**Hardware & DevOps:** Arduino · Raspberry Pi · Docker
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/streamlitio/streamlitio-icon.svg" alt="Streamlit" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/fastapi/fastapi-icon.svg" alt="FastAPI" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" height="40" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+<!-- EDIT: replace with your real repos, with live demo links. Also pin these 6 on your profile. -->
+
+| Project | What it does | Stack | Links |
+|---|---|---|---|
+| **[wearable-health-dashboard](https://github.com/somoshree04/REPO-NAME)** | Real-time dashboard for live wearable sensor data | React, FastAPI, PostgreSQL | [Repo](https://github.com/somoshree04/REPO-NAME) · [Live demo](#) |
+| **[emotion-detection-model](https://github.com/somoshree04/REPO-NAME)** | Deep learning model for emotion recognition from sensor signals | Python, PyTorch | [Repo](https://github.com/somoshree04/REPO-NAME) |
+| **[wbasn-research](https://github.com/somoshree04/REPO-NAME)** | Code behind the UEMGREEN 2026 Best Paper on WBASN | Python, Arduino | [Repo](https://github.com/somoshree04/REPO-NAME) |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=somoshree04&theme=tokyonight" width="515" alt="GitHub Contribution Dynamics" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git.vercel.app/api/top-langs/?username=somoshree04&theme=tokyonight&bg_color=1a1b26&title_color=38bdf8&text_color=a9b1d6&langs_count=6" height="205" alt="Most Used Languages" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/somoshree04/somoshree04/output/github-contribution-grid-snake-dark.svg">
@@ -28,98 +75,7 @@ I bridge the gap between physical hardware and intelligent systems. My engineeri
 
 ---
 
-
-### 🛠 Languages and Tools
-
-<p align="left">
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" />
-  </a>
-
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="48" height="48" />
-  </a>
-  <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/streamlitio/streamlitio-icon.svg" alt="Streamlit" width="48" height="48" />
-  </a>
-
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="48" height="48" />
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="48" height="48" />
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="48" height="48" />
-  </a>
-
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/fastapi/fastapi-icon.svg" alt="FastAPI" width="48" height="48" />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" width="48" height="48" />
-  </a>
-  <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" width="48" height="48" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" />
-  </a>
-
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" />
-  </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="48" height="48" />
-  </a>
-  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_colaboratory/google_colaboratory-icon.svg" alt="Google Colab" width="48" height="48" />
-  </a>
-
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino Uno" width="48" height="48" />
-  </a>
-  <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="48" height="48" />
-  </a>
-</p>
-
----
-### 📈 GitHub Stats & Dynamics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=somoshree04&theme=tokyonight" width="515" alt="Somoshree's GitHub Contribution Dynamics" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git.vercel.app/api/top-langs/?username=somoshree04&theme=tokyonight&bg_color=1a1b26&title_color=38bdf8&text_color=a9b1d6&langs_count=6" height="205" alt="Most Used Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=somoshree04&theme=tokyonight&background=1a1b26&ring=e0af68&fire=e0af68&currStreakNum=a9b1d6&sideLabels=a9b1d6&dates=7aa2f7" width="515" alt="GitHub Streak" />
-</p>
-
----
-
-### 🤝 Connect with Me
+## 🤝 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/somoshree-saha-695947284/" target="_blank">
@@ -127,9 +83,6 @@ I bridge the gap between physical hardware and intelligent systems. My engineeri
   </a>
   <a href="https://x.com/SomoshreeSaha" target="_blank">
     <img src="https://img.shields.io/badge/X_/_Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://www.instagram.com/i.somoshree/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:somoshreesaha77@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
